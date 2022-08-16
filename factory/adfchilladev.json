@@ -1,0 +1,9 @@
+{
+	"name": "adfchilladev",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c759115c-019e-4edb-88f1-ee906ca851c7",
+		"tenantId": "3ab3d0c9-5e3c-48c1-99a9-34e5d0291c38"
+	}
+}
